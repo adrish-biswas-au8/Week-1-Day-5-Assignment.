@@ -1,1 +1,2 @@
 Week 1 Day 5 Assignment.
+Welcome to your very first assignment. I Hope you all are excited. The goal of this assignment is to kindle your learning regarding terminal commands and Git commands. I want you all to record a screencast the following
